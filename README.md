@@ -9,7 +9,7 @@ These projects are created to practice and showcase my skills in **HTML structur
 
 - 📄 **Project 1: Resume Template**  
   A simple HTML resume template showcasing education, skills, and projects.
-  🔗 [Live Demo](https://resumetemplateproject1.netlify.app/) | 📂 [Source Code](https://github.com/abhijeetkhade1/HTML-Projects/blob/main/ResumeTemplateProject1/index.html)
+  🔗 [Live Demo](https://resumetemplateproject1.netlify.app/) | 📂 [Source Code](https://github.com/abhijeetkhade65/html-projects/blob/main/ResumeTemplateProject1/index.html)
 
 - 📄 **Project 2: Recipee Page**  
   A simple HTML page to learn and cook tasty dishes..
