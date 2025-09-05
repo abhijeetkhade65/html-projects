@@ -21,7 +21,7 @@ These projects are created to practice and showcase my skills in **HTML structur
 
 
 - 📄 **Project 4: College site**  
-  An interactive college website providing easy access to information.
+  A interactive college website providing easy access to information.
   🔗 [Live Demo](https://collegesiteproject4.netlify.app/) | 📂 [Source Code](https://github.com/abhijeetkhade65/html-projects/blob/main/CollegeSiteProject4/index.html)
 
 - 📄 **Project 5: Travel Explorer**  
