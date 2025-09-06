@@ -32,7 +32,7 @@ These projects are created to practice and showcase my skills in **HTML structur
   An HTML5 project showcasing media features in one site.
   🔗 [Live Demo](https://mediaproject6.netlify.app/) | 📂 [Source Code](https://github.com/abhijeetkhade1/HTML-Projects/blob/main/MediaProject6/index.html)
   
-*(More projects will be added soon!)*
+*(More projects will be added soon !)*
 
 ---
 
